@@ -1,5 +1,11 @@
 # astro
 
+## 3.5.1
+
+### Patch Changes
+
+- [#9037](https://github.com/withastro/astro/pull/9037) [`ea71975ec`](https://github.com/withastro/astro/commit/ea71975ec0c99f407f0e2fd0c248a959284d2068) Thanks [@sarah11918](https://github.com/sarah11918)! - Updates i18n configuration reference
+
 ## 3.5.0
 
 ### Minor Changes
